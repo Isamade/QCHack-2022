@@ -1,0 +1,26 @@
+For computing Hamming distance:
+
+@article{khan2021string,
+  author        = {Mushahid Khan and Andriy Miranskyy},
+  title         = {{String Comparison on a Quantum Computer Using Hamming Distance}},
+  journal       = {CoRR},
+  volume        = {abs/2106.16173},
+  year          = {2021},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2106.16173},
+  eprint        = {2106.16173}
+}
+
+
+For EP-PQM:
+
+@article{khan2022string,
+  author        = {Mushahid Khan and Jean Paul Latyr Faye and Udson C. Mendes and Andriy Miranskyy},
+  title         = {{EP-PQM: Efficient Parametric Probabilistic Quantum Memory with Fewer Qubits and Gates}},
+  journal       = {CoRR},
+  volume        = {abs/2201.07265},
+  year          = {2022},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2201.07265},
+  eprint        = {2201.07265}
+}
